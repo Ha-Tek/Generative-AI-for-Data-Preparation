@@ -15,10 +15,12 @@ In this project, we will learn how to use generative AI for creating a Python co
 
 
 
-## Data Set
+## Dataset
 
-The data set for this project is available at the following URL:
+The dataset for this project is available at the following URL:
 
 ```python
 URL = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-Coursera/laptop_pricing_dataset_mod1.csv"
 ```
+
+This dataset is a filtered and modified version of the [**Laptop Price Prediction using Specifications**](https://www.kaggle.com/datasets/arnabchaki/laptop-price-prediction?resource=download) dataset, which is available on [**Kaggle**](https://www.kaggle.com/) under the [**Database Contents License (DbCL) v1.0**](https://opendatacommons.org/licenses/dbcl/dbcl-10.txt).
